@@ -20,7 +20,7 @@ repository first**
 
 - [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
-- [Final Project](https://markfloryan.github.io/advalgo_projects): Click here for all the information regarding the final project!
+<!-- - [Final Project](https://markfloryan.github.io/advalgo_projects): Click here for all the information regarding the final project! -->
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the schedule for the term and links to the slides used in the course.
 
 <a name="headtas"></a>Instructor and Head TAs
@@ -33,9 +33,12 @@ We have one instructor and multiple **TAs** for the course. Their names and emai
 | Name | Head TA / Inst. | Email |
 |-|-|-|
 | Mark Floryan | Instructor | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Nicholas Winschel| TA | [pvz6tx@virginia.edu](mailto:pvz6tx@virginia.edu) |
-| Varun Vejalla | TA | [cgm5sa@virginia.edu](mailto:cgm5sa@virginia.edu) |
-| Vagul Mahadevan | TA | [dub5nq@virginia.edu](mailto:dub5nq@virginia.edu) |
+| Natalia Wunder| TA | [xax8gw@virginia.edu](mailto:xax8gw@virginia.edu) |
+| Grady Hollar| TA | [vhe5ak@virginia.edu](mailto:vhe5ak@virginia.edu) |
+| Brennan Muller | TA | [sem9bd@virginia.edu](mailto:sem9bd@virginia.edu) |
+| Gavin Crigger | TA | [tzn4fx@virginia.edu](mailto:tzn4fx@virginia.edu) |
+| Eddie Li | TA | [grc4rz@virginia.edu](mailto:grc4rz@virginia.edu) |
+| Vincent Tran | TA | [vmf5yp@virginia.edu](mailto:vmf5yp@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
@@ -45,13 +48,14 @@ All office hours are held in Thornton Stacks. This is subject to change if we fi
 
 | TA Name | Office Hour Times | Location |
 |----------|------------------------|------------------------|
-| Floryan | Mon. 10:30am-12:00pm[^1], Thu. 12:30pm-2:00pm[^2] | Rice 203 |
-| Nicholas | Fri. 1:30pm-3:30pm | Thornton Stacks |
-| Vagul | Mon. 2:00pm-4:00pm | Thornton Stacks | 
-| Varun | Wed. 1:25pm-3:25pm | Thornton Stacks |
+| Floryan | TBD | Rice 203 |
+| Natalia | TBD | Thornton Stacks |
+| Grady | TBD | Thornton Stacks |
+| Brennan | TBD | Thornton Stacks |
+| Gavin | TBD | Thornton Stacks |
+| Eddie | TBD | Thornton Stacks |
+| Vincent | TBD | Thornton Stacks |
 
-[^1]: Adv. Algo. students are given preference during my Monday office hours. If any DMT2 students are present, you will be given priority in all cases.
-[^2]: DMT2 students are given preference during my Thursday office hours. If any DMT2 students are present, they will given priority and you will have to wait. 
 
 
 <a name="contributing"></a>Contributing to this Repository

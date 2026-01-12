@@ -16,12 +16,12 @@ We will be using [Gradescope](https://gradescope.com) for this course. You can l
 
 | HW Num. | Topic Name | Release Date | Due Date | PDF |
 |--|------|----|----|---|
-| HW 1 | Introduction / WarmUp | Fri. Jan. 24 | Wed. Jan. 29 | [Palindromes](./palindromes.pdf) |
-| HW 2 | Fenwick Trees | Fri. Jan. 31 | Wed. Feb. 5 | [File Storage](./filestorage.pdf) |
-| HW 3 | Segment Trees | Fri. Feb. 14 | Wed. Feb. 19 | [Transforms](./transforms.pdf) |
-| HW 4 | Linear Programming | Fri. Feb. 28 | Wed. Mar. 5 | [Business Flow](./businessflow.pdf) |
-| HW 5 | Computational Geometry | Fri. Mar. 28  | Wed. Apr. 2 | [Cows](./cows.pdf) |
-| HW 6 | Van Emde Boas Trees | Fri. Apr. 11  | Wed. Apr. 16 | [Identification Numbers](./identification.pdf) |
+| HW 1 | Introduction / WarmUp | Thu. Jan. 15 | Tue. Jan. 20 | ... |
+| HW 2 | Fenwick Trees | Thu. Jan. 29 | Tue. Feb. 3 | ... |
+| HW 3 | Segment Trees | Thu. Feb. 12 | Tue. Feb. 17 | ... |
+| HW 4 | Linear Programming | Thu. Feb. 19 | Tue. Mar. 24 | ... |
+| HW 5 | Computational Geometry | Thu. Mar. 26  | Tue. Mar. 31 | ... |
+| HW 6 | Van Emde Boas Trees | Thu. Apr. 9  | Tue. Apr. 14 | ... |
 
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
