@@ -48,13 +48,13 @@ All office hours are held in Thornton Stacks. This is subject to change if we fi
 
 | TA Name | Office Hour Times | Location |
 |----------|------------------------|------------------------|
-| Floryan | TBD | Rice 203 |
-| Natalia | TBD | Thornton Stacks |
-| Grady | TBD | Thornton Stacks |
-| Brennan | TBD | Thornton Stacks |
-| Gavin | TBD | Thornton Stacks |
-| Eddie | TBD | Thornton Stacks |
-| Vincent | TBD | Thornton Stacks |
+| Floryan | Mon. 1-2pm; Wed. 12-2pm | Rice 203 |
+| Natalia | Sun. 10-12pm | Thornton Stacks |
+| Eddie | Mon. 4:30-6:30pm | Thornton Stacks |
+| Gavin | Tue. 2-4pm | Thornton Stacks |
+| Brennan | Wed. 3-5pm | Thornton Stacks |
+| Vincent | Wed. 1-3pm | Thornton Stacks |
+| Grady | Thur. 3-5pm | Thornton Stacks |
 
 
 
