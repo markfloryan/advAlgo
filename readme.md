@@ -6,7 +6,7 @@ Advanced Data Structures and Algorithms
 <a name="introduction"></a>Introduction
 ---------------------------------------
 
-The repository contains content for **Advanced Data Structures and Algorithms** at [the University of Virginia](https://virginia.edu). This course is designed to be an elective offering that explores advanced versions of foundational data structures (e.g., advanced array-based data structures and advanced tree data structures). The course also expands on a student's algorithmic toolset by exploring advanced approaches such as linear programming and advanced analysis (as in approximation algorithms).
+This repository contains content for **Advanced Data Structures and Algorithms** at [the University of Virginia](https://virginia.edu). This course is designed to be an elective offering that explores advanced versions of foundational data structures (e.g., advanced array-based data structures and advanced tree data structures). The course also expands on a student's algorithmic toolset by exploring advanced approaches such as linear programming and advanced analysis (as in approximation algorithms).
 
 Students are expected to have command of foundational concepts in Computer Science, including all data structures (arrays, lists, trees, hash tables, priority queues, graphs, etc.) as well algorithms (optimization methods divide-and-conquer algorithms, dynamic programming, etc.)
 
