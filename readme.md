@@ -48,7 +48,7 @@ All office hours are held in Thornton Stacks. This is subject to change if we fi
 
 | TA Name | Office Hour Times | Location |
 |----------|------------------------|------------------------|
-| Floryan | Mon. 1-2pm; Wed. 11-1pm | Rice 203 |
+| Floryan | Mon. 1-2pm; Tue. 9-10am; Wed. 12-1pm | Rice 203 |
 | Natalia | Sun. 10-12pm | Thornton Stacks |
 | Eddie | Mon. 4:30-6:30pm | Thornton Stacks |
 | Gavin | Tue. 2-4pm | Thornton Stacks |
