@@ -54,7 +54,7 @@ All office hours are held in Thornton Stacks. This is subject to change if we fi
 | Gavin | Tue. 2-4pm | Thornton Stacks |
 | Brennan | Wed. 3-5pm | Thornton Stacks |
 | Vincent | Wed. 1-3pm | Thornton Stacks |
-| Grady | Thur. 3-5pm | Thornton Stacks |
+| Grady | Thur. 3-5pm; Fri. 12:30-1:30pm | Thornton Stacks |
 
 
 
