@@ -11,8 +11,8 @@ Advanced Data Structures and Algorithms (Schedule and Slides)
 |Module Num|Module Name|Lecture Topic|Slides|Readings|
 |-|---|---|---|---|
 |0|Course Introduction|-|[Course Introduction](./00-CourseIntroduction.pptx)|
-|1|Fenwick Trees|An advanced array data structure|[Fenwick Trees](./Trees-FenwickTrees.pptx)|[CP Algo](https://cp-algorithms.com/data_structures/fenwick.html#overview)|
-|2|Segment Trees|An advanced tree data structure|[Segment Trees](./Trees-SegmentTrees.pptx)|[CP Algo](https://cp-algorithms.com/data_structures/segment_tree.html)|
+|1|Fenwick Trees|An advanced array data structure|[Fenwick Trees](./Trees-FenwickTrees.pptx) ([pdf](./pdf/Trees-FenwickTrees.pdf))|[CP Algo](https://cp-algorithms.com/data_structures/fenwick.html#overview)|
+|2|Segment Trees|An advanced tree data structure|[Segment Trees](./Trees-SegmentTrees.pptx) ([pdf](./pdf/Trees-SegmentTrees.pdf))|[CP Algo](https://cp-algorithms.com/data_structures/segment_tree.html)|
 |3|Linear Programming|Introduction to LP Approach|[Linear Programming Part 1](./LinearProgramming-part1-Introduction.pptx) | CLRS Ch. 29|
 |||LP: Simplex Algorithm|[Linear Programming Part 2](./LinearProgramming-part2-Simplex.pptx)||
 |4|Computational Geometry|Intro / Line Intersection|[Intro to CG](./ComputationalGeom-part1-Intersections.pptx)|CLRS Ch. 33|
