@@ -20,7 +20,7 @@ repository first**
 
 - [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
-<!-- - [Final Project](https://markfloryan.github.io/advalgo_projects): Click here for all the information regarding the final project! -->
+- [Final Project](https://markfloryan.github.io/advalgo_projects_sp26): Click here for all the information regarding the final project!
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the schedule for the term and links to the slides used in the course.
 
 <a name="headtas"></a>Instructor and Head TAs
