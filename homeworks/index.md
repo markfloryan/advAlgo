@@ -19,7 +19,7 @@ We will be using [Gradescope](https://gradescope.com) for this course. You can l
 | HW 1 | Introduction / WarmUp | Thu. Jan. 15 | Tue. Jan. 20 | [Palindromes](./palindromes.pdf) |
 | HW 2 | Fenwick Trees | Thu. Jan. 29 | Tue. Feb. 3 | [File Storage](./filestorage.pdf) |
 | HW 3 | Segment Trees | Thu. Feb. 12 | Tue. Feb. 17 | [Transforms](./transforms.pdf) |
-| HW 4 | Linear Programming | Thu. Feb. 19 | Tue. Mar. 24 | ... |
+| HW 4 | Linear Programming | Thu. Feb. 19 | Tue. Mar. 24 | [Business Flow](./businessflow.pdf) |
 | HW 5 | Computational Geometry | Thu. Mar. 26  | Tue. Mar. 31 | ... |
 | HW 6 | Van Emde Boas Trees | Thu. Apr. 9  | Tue. Apr. 14 | ... |
 
