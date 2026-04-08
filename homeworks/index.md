@@ -21,7 +21,7 @@ We will be using [Gradescope](https://gradescope.com) for this course. You can l
 | HW 3 | Segment Trees | Thu. Feb. 12 | Tue. Feb. 17 | [Transforms](./transforms.pdf) |
 | HW 4 | Linear Programming | Thu. Feb. 19 | Tue. Feb. 24 | [Business Flow](./businessflow.pdf) |
 | HW 5 | Computational Geometry | Thu. Mar. 26  | Tue. Mar. 31 | [Cows](./cows.pdf) |
-| HW 6 | Van Emde Boas Trees | Thu. Apr. 9  | Tue. Apr. 14 | ... |
+| HW 6 | Approximations | Thu. Apr. 9  | Tue. Apr. 14 | [Salesmole](./salesmole.pdf) |
 
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
