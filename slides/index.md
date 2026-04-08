@@ -17,7 +17,7 @@ Advanced Data Structures and Algorithms (Schedule and Slides)
 |||LP: Simplex Algorithm|[Linear Programming Part 2](./LinearProgramming-part2-Simplex.pptx)||
 |4|Computational Geometry|Intro / Line Intersection|[Intro to CG](./ComputationalGeom-part1-Intersections.pptx)|CLRS Ch. 33|
 |||Convex Hull and Quad Trees|[Quad Trees](./ComputationalGeom-part2-ConvexHull.pptx)||
-|5|Approximation Algorithms|Basic Approximations|[Approximation Algorithms](./Approx-01-Intro.pptx)|CLRS Ch. 35|
+|5|Approximation Algorithms|Basic Approximations|[Approximation Algorithms](./Approx-01-Intro.pptx)|CLRS Ch. 35, [Intro to Approximation Algorithms](./pdf/Approximations-Grady.pdf)|
 |||More Approximation Algorithms|[Approximations Part 2](./Approx-02-More.pptx)||
 |||Simulated Annealing|[Simulated Annealing](./Approx-03-SimulatedAnnealing.pptx)||
 |6|Van Emde Boas Trees|An interesting and fast search tree|[vEB Trees](./Trees-VanEmdeBoas.pptx)|CLRS Ch. 20|
